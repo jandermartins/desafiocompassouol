@@ -1,13 +1,13 @@
-package br.com.uol.compasso.desafio.desafiocompassouol;
+package br.uol.crateus.products;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DesafiocompassouolApplication {
+public class ProductsApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DesafiocompassouolApplication.class, args);
+		SpringApplication.run(ProductsApplication.class, args);
 	}
 
 }
